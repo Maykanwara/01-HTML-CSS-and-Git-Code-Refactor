@@ -23,8 +23,7 @@ To align the site with accessability standards, I added "alt" information to ima
 
 
 ## Screenshots of Finished Product
-
-[screenshot](github.com/Maykanwara/01-HTML-CSS-and-Git-Code-Refactor/blob/main/assets/scrreenshot.png)
+[screenshot](/assets/screenshot.png)
 
 ## Contact Information
 
